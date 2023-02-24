@@ -1,0 +1,87 @@
+<RCC>
+  <qresource prefix="hw">
+    <file>icons/Animation_Fibonacci.gif</file>
+    <file>icons/array1.png</file>
+    <file>icons/array2.png</file>
+    <file>icons/array3.png</file>
+    <file>icons/array4.png</file>
+    <file>icons/array5.png</file>
+    <file>icons/array6.png</file>
+    <file>icons/Artua-Royal-Crown.ico</file>
+    <file>icons/ikc.png</file>
+    <file>icons/mail.png</file>
+    <file>icons/yt.png</file>
+    <file>icons/images (2).png</file>
+    <file>icons/png-clipart-macos-app-icons-microsoft-excel.png</file>
+    <file>icons/pause-icon-12-256.png</file>
+    <file>icons/pg-play-button.png</file>
+    <file>icons/4024361.png</file>
+    <file>icons/household-2.png</file>
+    <file>icons/images (2).jpg</file>
+    <file>icons/png-clipart-albook-extended-pussy-710-pink-play-button-icon-thumbnail.png</file>
+    <file>icons/129615146-mail-icon-for-design-and-websites-message-vector-illustration-trendy-symbol-.jpg</file>
+    <file>icons/youtube-logo-6019878_1280.png</file>
+    <file>icons/385803-200.png</file>
+    <file>icons/Password.png</file>
+    <file>icons/untitled.png</file>
+    <file>icons/Animation_Fibonacci.gif</file>
+    <file>icons/3094700.png</file>
+    <file>icons/4751170.png</file>
+    <file>icons/icon--123.png</file>
+    <file>icons/images (1).jpg</file>
+    <file>icons/images (1).png</file>
+    <file>icons/indir.png</file>
+    <file>icons/images.jpg</file>
+    <file>icons/2397416.png</file>
+    <file>icons/4525985.png</file>
+    <file>icons/d389cc0a7884d3ec20ebc8b4ea40f913.png</file>
+    <file>icons/hacker-icon-code-icon-binary-code-icon.jpg</file>
+    <file>icons/images.png</file>
+    <file>icons/s.png</file>
+    <file>icons/1d5ebd5a-7bef-4aa4-ab48-c893eebc041e.png</file>
+    <file>icons/4884841.jpg</file>
+    <file>icons/5685653.jpg</file>
+    <file>icons/5706919.jpg</file>
+    <file>icons/Alex-T-Splash-Of-Fruit-Button-orange.ico</file>
+    <file>icons/Artua-Royal-Crown.ico</file>
+    <file>icons/Custom-Icon-Design-Flatastic-11-Application.ico</file>
+    <file>icons/Custom-Icon-Design-Pretty-Office-8-Stop.ico</file>
+    <file>icons/Custom-Icon-Design-Pretty-Office-10-Numbers.ico</file>
+    <file>icons/Double-J-Design-Electronics-LED.ico</file>
+    <file>icons/Double-J-Design-Origami-Colored-Pencil-Blue-star.ico</file>
+    <file>icons/Double-J-Design-Origami-Colored-Pencil-Red-home.ico</file>
+    <file>icons/Ergosign-Free-Spring-Ladybird.ico</file>
+    <file>icons/Ergosign-World-Animal-Elephant.ico</file>
+    <file>icons/Fasticon-Easter-Rabbits-Pink-rabbit.ico</file>
+    <file>icons/Goodstuff-No-Nonsense-Free-Space-Moon-dreamy.ico</file>
+    <file>icons/Google-Noto-Emoji-Animals-Nature-22332-cactus.ico</file>
+    <file>icons/Google-Noto-Emoji-People-Profession-10541-princess.ico</file>
+    <file>icons/Google-Noto-Emoji-Symbols-73028-warning.ico</file>
+    <file>icons/Harwen-Simple-RUN.ico</file>
+    <file>icons/Hopstarter-Soft-Scraps-Button-Play.ico</file>
+    <file>icons/icon_rc.py</file>
+    <file>icons/Iconka-Saint-Whiskers-Cat-cupid-love.ico</file>
+    <file>icons/Icons8-Ios7-Plants-Leaf.ico</file>
+    <file>icons/Icons8-Windows-8-Industry-Electricity.ico</file>
+    <file>icons/Iconsmind-Outline-Bow.ico</file>
+    <file>icons/Iconsmind-Outline-Queen (1).ico</file>
+    <file>icons/Iconsmind-Outline-Tent.ico</file>
+    <file>icons/Logohok (1).gif</file>
+    <file>icons/Logohok (1).png</file>
+    <file>icons/Logohok (2).gif</file>
+    <file>icons/Mcdo-Design-Smooth-Leopard-Sidebar-Music-Purple.ico</file>
+    <file>icons/Mirella-Gabriele-Fantasy-Mediaeval-Feather.ico</file>
+    <file>icons/OEMBZP0.jpg</file>
+    <file>icons/Oxygen-Icons.org-Oxygen-Actions-window-close.ico</file>
+    <file>icons/python-icon.png</file>
+    <file>icons/Salleedesign-Music-Guitar-stratocaster-black.ico</file>
+    <file>icons/Salleedesign-Music-Guitar-stratocaster-white.ico</file>
+    <file>icons/select-font-icon.png</file>
+    <file>icons/sort-ascending-icon.png</file>
+    <file>icons/Tatice-Cristal-Intense-Information.ico</file>
+    <file>icons/Tatice-Cristal-Intense-Question.ico</file>
+    <file>icons/Treetog-I-E-mail.ico</file>
+    <file>icons/Webalys-Kameleon.pics-Desert.ico</file>
+    <file>icons/Yellowicon-Easter-Rabbit.ico</file>
+  </qresource>
+</RCC>

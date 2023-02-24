@@ -1,0 +1,2 @@
+1.First algorithmlib file should add to MATLAB path
+2.Open Codes>>apps>>log.mlapp
